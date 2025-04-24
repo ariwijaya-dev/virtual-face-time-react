@@ -2,6 +2,6 @@
 export interface Room {
   id: string;
   name: string;
-  createdBy: string;
-  createdAt: string;
+  created_by: string;
+  created_at: string;
 }
